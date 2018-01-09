@@ -23,19 +23,6 @@ html,body { height: 100%; margin: 0px; padding: 0px;}
     100%{background-position:0% 50%}
 }
 
-.logo {
-	  -webkit-filter: drop-shadow
-	  (1px 1.9px 1px black,
-	  2px 3.8px 2px black,
-	  3px 5.7px 3px rgba(0, 0, 0, 0.6666666667),
-	  4px 7.6px 4px rgba(0, 0, 0, 0.5),
-	  5px 9.5px 5px rgba(0, 0, 0, 0.4),
-	  6px 11.4px 6px rgba(0, 0, 0, 0.3333333333),
-	  7px 13.3px 7px rgba(0, 0, 0, 0.2857142857),
-	  8px 15.2px 8px rgba(0, 0, 0, 0.25),
-	  9px 17.1px 9px rgba(0, 0, 0, 0.2222222222),
-	  10px 19px 10px rgba(0, 0, 0, 0.2));
-}
 .bg {
   height: 100vh;
   width: 100%;
